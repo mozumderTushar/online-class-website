@@ -9,3 +9,12 @@
     border: none;
     border-radius: 15px;
 }
+.enrollBtn{
+    width: 100px;
+    height: 35px;
+    font-size: 14px;
+}
+
+.enrollBtn:hover{
+    background: linear-gradient(to right, #4784c5, #304ed1);
+}

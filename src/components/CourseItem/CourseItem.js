@@ -14,7 +14,7 @@ const CourseItem = (props) => {
                     <p>{instructor}</p>
                     <p><small>{level}</small></p>
                     <h4 className="price">${price}</h4>
-                    <button className="btn btn-sm btn-primary" onClick={()=>props.handleAddCart(props.course)}>Enroll Now</button>
+                    <button className="btn btn-sm btn-primary enrollBtn" onClick={()=>props.handleAddCart(props.course)}>Enroll Now</button>
                 </div>
          </div>
            </div>
