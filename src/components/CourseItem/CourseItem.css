@@ -18,3 +18,8 @@
 .enrollBtn:hover{
     background: linear-gradient(to right, #4784c5, #304ed1);
 }
+
+.rating{
+    color: #EB8A2F;
+}
+
